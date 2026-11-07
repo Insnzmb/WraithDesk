@@ -2,12 +2,12 @@
 
 WraithDesk is a mixed-reality workspace that connects a Meta Quest headset with a Windows PC over a trusted local network. It is developed by Insane Zombie Studio.
 
-## Downloads
+## PC companion preview
 
-The PC companion is being prepared for public preview. This repository will host Windows installer releases and checksums when they are ready. A Meta Quest headset app is also required.
+[Download WraithDesk PC 0.30.4 and its SHA-256 checksum](https://github.com/Insnzmb/WraithDesk/releases/tag/v0.30.4). A compatible Quest app and a supported hardware H.264 encoder are also required. This preview is under active testing; Windows may display an unrecognized-app warning because the installer is not Windows Authenticode signed.
 
 ## Support
 
-Contact **insnzmb@gmail.com**. Please do not include passwords, pairing tokens, signing keys, or private documents in a support message.
+Contact **insnzmb@gmail.com**. Please do not include passwords, pairing tokens, signing keys or private documents in a support message.
 
-The application is under active development. Hardware compatibility, privacy documentation, and the Meta store release are still being reviewed.
+Hardware compatibility, privacy documentation and the Meta store release are still being reviewed.
