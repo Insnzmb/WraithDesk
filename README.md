@@ -6,8 +6,12 @@ WraithDesk is a mixed-reality workspace that connects a Meta Quest headset with 
 
 [Download WraithDesk PC 0.30.4 and its SHA-256 checksum](https://github.com/Insnzmb/WraithDesk/releases/tag/v0.30.4). A compatible Quest app and a supported hardware H.264 encoder are also required. This preview is under active testing; Windows may display an unrecognized-app warning because the installer is not Windows Authenticode signed.
 
+## Privacy
+
+Read the [WraithDesk Privacy Policy](https://insnzmb.github.io/WraithDesk/privacy.html).
+
 ## Support
 
 Contact **insnzmb@gmail.com**. Please do not include passwords, pairing tokens, signing keys or private documents in a support message.
 
-Hardware compatibility, privacy documentation and the Meta store release are still being reviewed.
+Hardware compatibility and the Meta store release are still being reviewed.
