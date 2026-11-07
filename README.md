@@ -8,7 +8,7 @@ WraithDesk is a mixed-reality workspace that connects a Meta Quest headset with 
 
 ## Privacy
 
-Read the [WraithDesk Privacy Policy](https://insnzmb.github.io/WraithDesk/privacy.html).
+Read the [WraithDesk Privacy Policy](https://insnzmb.github.io/WraithDesk/privacy.html) and [Terms of Use](https://insnzmb.github.io/WraithDesk/terms.html).
 
 ## Support
 
