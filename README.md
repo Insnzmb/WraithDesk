@@ -16,4 +16,4 @@ Read the [WraithDesk Privacy Policy](https://insnzmb.github.io/WraithDesk/privac
 
 Contact **insnzmb@gmail.com**. Please do not include passwords, pairing tokens, signing keys or private documents in a support message.
 
-Hardware compatibility and the Meta store release are still being reviewed. The Quest APK in GitHub test releases is a development build, not a Meta submission package.
+Hardware compatibility and the Meta store release are still being reviewed. Quest APK downloads are not offered through this repository or its GitHub releases.
